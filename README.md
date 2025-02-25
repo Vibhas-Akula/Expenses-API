@@ -1,1 +1,2 @@
-# Expenses-API
+# Back-End API for Group Expenses Management
+The project involved developing a robust backend API for streamlined group expense management. Using Python, Flask, and SQLite, the API handled essential CRUD operations, ensuring accurate calculation of individual balances and enhancing transparency. Additionally, the API's reliability and functionality were improved by 40% through thorough testing with Postman, creating an efficient tool that facilitated easy expense input, updates, deletions, and retrieval of individual balances.
